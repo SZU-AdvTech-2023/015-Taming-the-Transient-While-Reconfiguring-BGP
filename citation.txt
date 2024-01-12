@@ -1,0 +1,7 @@
+@inproceedings{REPO015,
+    author = "Schneider, Tibor and Schmid, Roland and Vissicchio, Stefano and Vanbever, Laurent",
+    booktitle = "Proceedings of the ACM SIGCOMM 2023 Conference",
+    pages = "77--93",
+    title = "{Taming the Transient While Reconfiguring BGP}",
+    year = "2023"
+}
